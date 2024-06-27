@@ -19,7 +19,4 @@ public class KorisnikController : Controller
     {
         return _korisnikService.Get();
     }
-
-    //
-
 }
