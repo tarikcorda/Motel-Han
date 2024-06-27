@@ -20,10 +20,6 @@ public class KorisnikController : Controller
         return _korisnikService.Get();
     }
 
+    //
 
-    //[HttpGet]
-    //public IList<Korisnici> Index()
-    //{
-    //    return _korisnikService.Get();
-    //}
 }
