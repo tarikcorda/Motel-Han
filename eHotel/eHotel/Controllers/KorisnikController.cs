@@ -14,7 +14,6 @@ public class KorisnikController : Controller
         _korisnikService = korisnikService;
     }
 
-//
     [HttpGet]
     public IList<Korisnici> Index()
     {
