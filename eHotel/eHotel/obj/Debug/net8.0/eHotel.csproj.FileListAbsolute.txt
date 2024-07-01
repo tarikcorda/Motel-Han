@@ -299,7 +299,6 @@ C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.GeneratedMSBuil
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.AssemblyInfoInputs.cache
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.AssemblyInfo.cs
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.sourcelink.json
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\staticwebassets.build.json
@@ -310,9 +309,14 @@ C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\staticwebassets\msbuil
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.eHotel.props
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\scopedcss\bundle\eHotel.styles.css
-C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.csproj.Up2Date
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.dll
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\refint\eHotel.dll
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.pdb
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.genruntimeconfig.cache
 C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\ref\eHotel.dll
+C:\Users\PC\Desktop\eHotel\eHotel\eHotel\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\PC\Desktop\eHotel\eHotel\eHotel\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.csproj.CopyComplete
+C:\Users\PC\Desktop\eHotel\eHotel\eHotel\obj\Debug\net8.0\eHotel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\PC\Desktop\eHotel\eHotel\eHotel\bin\Debug\net8.0\eHotel.Model.dll
+C:\Users\PC\Desktop\eHotel\eHotel\eHotel\bin\Debug\net8.0\eHotel.Model.pdb

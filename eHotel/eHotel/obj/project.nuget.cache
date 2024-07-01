@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "EbDFEkDtbAM=",
+  "dgSpecHash": "rcaqmy0BI9KHnv8ClkZ6qiBuDHmHpLbMEGWxEbc2MyzeZQexuyPJhfuFUhtAMMsp4iwR5cFqLNlca7rfT0CMTg==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\Desktop\\eHotel\\eHotel\\eHotel\\eHotel.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\PC\\.nuget\\packages\\entityframework\\6.5.1\\entityframework.6.5.1.nupkg.sha512",

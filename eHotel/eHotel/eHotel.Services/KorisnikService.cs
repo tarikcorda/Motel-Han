@@ -1,19 +1,22 @@
-﻿using eHotel.eHotel.Model;
-using eHotel.eHotel.Services.Database;
+﻿using AutoMapper;
+using eHotel.Model;
+using eHotel.Database;
 
 namespace eHotel.eHotel.Services;
 
 public class KorisnikService : IKorisnikService
 {
-    public eHotelContext _context { get; set; }
+    public EHotelContext _context { get; set; }
+    private readonly IMapper _mapper;
 
-    public KorisnikService(eHotelContext context)
+    public KorisnikService(EHotelContext context, IMapper mapper)
     {
         _context = context;
+        _mapper = mapper;
     }
 
-    public List<Korisnici> Get()
+    public List<Model.Korisnici> Get()
     {
-        return _context.Korisnici.ToList();
+        return _context.Korisnicis.ToList().Select(x => _mapper.Map<Model.Korisnici>(x)).ToList();
     }
 }

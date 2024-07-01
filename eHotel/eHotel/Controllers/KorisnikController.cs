@@ -1,4 +1,4 @@
-﻿using eHotel.eHotel.Model;
+﻿using eHotel.Model;
 using eHotel.eHotel.Services;
 using Microsoft.AspNetCore.Mvc;
 

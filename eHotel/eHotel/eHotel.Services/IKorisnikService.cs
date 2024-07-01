@@ -1,4 +1,4 @@
-﻿using eHotel.eHotel.Model;
+﻿using eHotel.Model;
 
 namespace eHotel.eHotel.Services;
 
